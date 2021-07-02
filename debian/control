@@ -8,6 +8,7 @@ Build-Depends: cmake (>= 2.8.6~),
                extra-cmake-modules,
                libqt5websockets5-dev,
                qtbase5-dev,
+               qtdeclarative5-dev,
                qtmultimedia5-dev
 Standards-Version: 4.2.1
 
